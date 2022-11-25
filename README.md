@@ -1,6 +1,18 @@
 # Coursera4_TensorFlowDeveloper
 Coursera 4 _ TensorFlow Developer Professional Certificate/DeepLearning.AI
 
+
+C2 _ Convolutional Neural Networks in TensorFlow
+
+        Week1 _ Programming assignment: Cats vs Dogs
+        
+        Week2 _ Programming assignment: Cats vs Dogs with Data Augmentation
+        
+        Week3 _ Programming assignment: Transfer Learning - Horses vs Humans
+        
+        Week4 _ Programming assignment: Classification: Beyond two classes
+        
+
 C3 _ Natural Language Processing in TensorFlow
 
     Week1 _ Programming assignment: Explore the BBC news archive
