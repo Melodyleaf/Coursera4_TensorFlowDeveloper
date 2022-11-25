@@ -2,6 +2,17 @@
 Coursera 4 _ TensorFlow Developer Professional Certificate/DeepLearning.AI
 
 
+C1 _ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+
+        Week1 _ Programming assignment: Housing Prices
+
+        Week2 _ Programming assignment: Implementing Callbacks in TensorFlow using the MNIST Dataset
+
+        Week3 _ Programming assignment: Improve MNIST with convolutions
+
+        Week4 _ Programming assignment: Handling Complex Images
+
+
 C2 _ Convolutional Neural Networks in TensorFlow
 
         Week1 _ Programming assignment: Cats vs Dogs
